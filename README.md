@@ -1,4 +1,18 @@
 # odin-recipes
+<p>This is a recipe site project consist of a home page and three recipe pages linked to it. It shows a set of learned skills as follow:</p>
+<p><ul><li>HTML5 fundamentals</li>
+    <li>Semantic HTML</li>
+    <li>Document structure</li>
+    <li>Headings, paragraphs, lists and links</li>
+    <li>Image integration and alt text</li>
+    <li>Relative file paths</li>
+    <li>Multi-page website structure</li>
+    <li>Directory/file organization</li>
+    <li>Basic website navigation</li>
+    <li>Git & GitHub</li>
+    <li>GitHub Pages deployment</li>
+    <li>Debugging broken links and 404 errors</li>
+    <li>Basic understanding of case-sensitive file paths</li></ul>
 ## Image Credits
 
 <p>Kalua Pork Photo by <a href="https://unsplash.com/@saranssk23?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">SARANKARTHICK s</a> on <a href="https://unsplash.com/photos/a-plate-of-food-fMIV2YxUAe8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p>

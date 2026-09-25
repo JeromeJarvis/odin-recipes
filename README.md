@@ -1,6 +1,6 @@
 # odin-recipes
 
-This is a recipe site project consist of a home page and three recipe pages linked to it. It shows a set of learned skills as follow:
+This is a recipe website project consist of a home page and three recipe pages linked to it. It shows a set of learned skills as follow:
 
 - HTML5 fundamentals
 - Semantic HTML

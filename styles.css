@@ -1,3 +1,18 @@
 body {
     background-color: #EAF1E7;
+
+}
+
+.toppage {
+    background-image: url(images/food-background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    padding: 10px;
+    height: 600px;
+}
+
+h2 {
+    color: white;
 }

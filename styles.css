@@ -8,9 +8,8 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-position-x: center;
-    padding: 10px;
-    height: 600px;
+    height: 520px;
+    padding: 20px;
 }
 
 h2 {

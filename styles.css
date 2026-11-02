@@ -1,6 +1,7 @@
 body {
     background-color: #EAF1E7;
-
+    box-sizing: border-box;
+    font-family: "Times New Roman", Times, serif;
 }
 
 .toppage {
@@ -9,9 +10,23 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     height: 520px;
-    padding: 20px;
 }
 
 h2 {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7)
+}
+
+.toppagetop {
+    height: 40px;
+    padding-top: 10px;
+    padding-left: 200px;
+    padding-bottom: 0%;
+    padding-right: 0px;
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.intoppage {
     color: white;
 }

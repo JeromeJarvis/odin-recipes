@@ -1,7 +1,9 @@
 body {
-    background-color: #EAF1E7;
+    background-color: #F5F0E6;
     box-sizing: border-box;
     font-family: "Times New Roman", Times, serif;
+    min-height: 100vh;
+    margin: 0;
 }
 
 .toppage {
@@ -9,7 +11,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 520px;
+    height: 500px;
 }
 
 h2 {
@@ -18,14 +20,14 @@ h2 {
 }
 
 .toppagetop {
-    height: 40px;
-    padding-top: 10px;
+    margin-top: 0px;
+    height: 30px;
+    padding-top: 5px;
     padding-left: 200px;
-    padding-bottom: 0%;
-    padding-right: 0px;
-    font-size: 35px;
+    padding-bottom: 8px;
+    font-size: 25px;
     font-weight: 100;
-    border: 12px;
+    border: 2px solid black;
 }
 
 .intoppage {
@@ -39,7 +41,7 @@ h2 {
     margin-top: 80px;
     margin-left: 210px;
     border-radius: 5%;
-    border: 12px;
+    border: 1px solid black;
 }
 
 .h1,.h2 {
@@ -54,4 +56,22 @@ h2 {
 
 .p1 {
     margin-top: 40px;
+}
+
+.main1 {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+
+.line {
+    background-color: #FFCE1B;
+    width: 55px;
+    height: 3px;
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
 }

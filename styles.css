@@ -81,3 +81,20 @@ h2 {
     font-size: 18px;
     text-align: center;
 }
+
+.mainbody1, .mainbody2, .mainbody3 {
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 80px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+img {
+    border-radius: 8%;
+}
+
+.mainbody1 {
+    margin-left: 170px;
+}

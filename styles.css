@@ -11,7 +11,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 490px;
+    height: 460px;
 }
 
 h2 {
@@ -33,12 +33,12 @@ h2 {
 .intoppage {
     color: white;
     background-color: rgba(0, 0, 0, 0.4);
-    width: 470px;
-    height: 280px;
-    padding-left: 70px;
-    padding-top: 40px;
-    padding-bottom: 10px;
-    margin-top: 80px;
+    width: 430px;
+    height: 240px;
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin-top: 60px;
     margin-left: 210px;
     border-radius: 5%;
     border: 1px solid black;
@@ -82,12 +82,12 @@ h2 {
     text-align: center;
 }
 
-.mainbody1, .mainbody2, .mainbody3 {
+.mainbody, .mainbody1 {
     display: inline-block;
     margin-top: 20px;
+    margin-bottom: 60px;
     margin-left: 80px;
-    text-align: center;
-    font-size: 18px;
+    font-size: 21px;
     font-weight: bold;
 }
 
@@ -97,4 +97,16 @@ img {
 
 .mainbody1 {
     margin-left: 170px;
+}
+
+.viewrecipe {
+    color: #FFCE1B;
+    font-size: 14px;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+.p3 {
+    margin-left: 20px;
 }

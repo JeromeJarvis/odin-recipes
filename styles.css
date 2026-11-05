@@ -80,9 +80,10 @@ h2 {
     color: #64748B;
     font-size: 18px;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-.mainbody, .mainbody1 {
+.mainbody,.mainbody1 {
     display: inline-block;
     margin-top: 20px;
     margin-bottom: 60px;
@@ -92,7 +93,7 @@ h2 {
 }
 
 img {
-    border-radius: 8%;
+    border-radius: 5%;
 }
 
 .mainbody1 {
@@ -109,6 +110,7 @@ img {
 
 .p3 {
     margin-left: 20px;
+    margin-bottom: 12px;
 }
 
 .arrow {

@@ -18,7 +18,7 @@ body {
 }
 
 .ref {
-    color: rgb(226, 2, 2);
+    color: rgb(222, 17, 17);
     font-size: 18px;
     text-decoration: none;
     margin-left: 10px;
@@ -51,30 +51,37 @@ body {
     text-align: center;
     font-size: 24px;
     font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 0px;
 }
 
-.discription {
+.description {
     color: #55554C;
     text-align: center;
     font-size: 18px;
+    margin-top: 0px;
     padding-top: 10px;
     padding-bottom: 10px;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 170px;
+    padding-right: 170px;
 }
 
 .separator {
     display: flex;
     align-items: center;
-    margin-top: 70px;
+    margin-top: 20px;
+    margin-left: 160px;
 }
 
 hr {
     background-color: #29482B;
-    width: 350px;
+    width: 500px;
     height: 3px;
+    margin: 35px;
+    
 }
 
 .flower {
     font-size: 35px;
+    margin: 0px;
 }

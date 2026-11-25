@@ -1,5 +1,5 @@
 body {
-    background-color: #EAF1E7;
+    background-color: #F4F2E1;
     box-sizing: border-box;
     font-family: "Times New Roman", Times, serif;
     min-height: 100vh;
@@ -7,13 +7,14 @@ body {
 }
 
 .header {
-    color: rgb(64, 163, 80);
-    background-color: rgb(214, 238, 202);
+    color: #29482B;
+    background-color:#E0E4C6;
     margin-top: 0px;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 190px;
-    font-weight: bolder
+    font-weight: bolder;
+    border-bottom: 4px solid #C15A28;
 }
 
 .ref {
@@ -35,12 +36,45 @@ body {
     text-align: center;
     margin-top: 5px;
     margin-bottom: 10px;
-    font-size: 110px;
+    font-size: 65px;
 }
 
 .image {
     margin-top: 0px;
-    margin-left: 370px;
+    margin-left: 410px;
     border-radius: 5%;
     border: 2px;
+}
+
+.shortname {
+    color: #29482B;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.discription {
+    color: #55554C;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.separator {
+    display: flex;
+    align-items: center;
+    margin-top: 70px;
+}
+
+hr {
+    background-color: #29482B;
+    width: 350px;
+    height: 3px;
+}
+
+.flower {
+    font-size: 35px;
 }

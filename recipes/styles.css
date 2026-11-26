@@ -42,7 +42,7 @@ body {
 .image {
     margin-top: 0px;
     margin-left: 410px;
-    border-radius: 5%;
+    border-radius: 20px;
     border: 2px;
 }
 
@@ -70,18 +70,74 @@ body {
     display: flex;
     align-items: center;
     margin-top: 20px;
-    margin-left: 160px;
+    margin-left: 100px;
 }
 
 hr {
     background-color: #29482B;
-    width: 500px;
+    width: 600px;
     height: 3px;
     margin: 35px;
     
 }
 
 .flower {
-    font-size: 35px;
+    font-size: 30px;
     margin: 0px;
 }
+
+.ingredients,.steps {
+    vertical-align: top;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    width: 550px;
+    background-color: #E0E4C6;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.ingredients {
+    display: inline-block;
+    margin-left: 170px;
+    height: 730px;
+    
+    
+}
+
+.steps {
+    display: inline-block;
+    margin-left: 150px;
+    height: 530px;
+}
+
+.ingheader {
+    color: white;
+    background-color: #29482B;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px;
+    padding-left: 35px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.inlist {
+    font-size: 20px;
+    color: #29482B;
+    padding: 0px 80px 10px 70px;
+    
+}
+
+.inlist li {
+    padding: 15px;
+}
+
+.footer {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    background-color: #29482B;
+    margin-bottom: 0px;
+    padding: 10px;
+}
+

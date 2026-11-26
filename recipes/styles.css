@@ -41,7 +41,14 @@ body {
 
 .image {
     margin-top: 0px;
-    margin-left: 410px;
+    margin-left: 390px;
+    border-radius: 20px;
+    border: 2px;
+}
+
+.imagekalua {
+    margin-top: 10px;
+    margin-left: 515px;
     border-radius: 20px;
     border: 2px;
 }
@@ -53,6 +60,15 @@ body {
     font-weight: bold;
     margin-top: 40px;
     margin-bottom: 0px;
+}
+
+.shortnamekal {
+    color: #29482B;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 610px;
+    margin-top: 40px;
+    margin-bottom: 10px;
 }
 
 .description {
@@ -96,18 +112,38 @@ hr {
     overflow: hidden;
 }
 
+.ingredientskal,.stepskal {
+    vertical-align: top;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    width: 500px;
+    background-color: #E0E4C6;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
 .ingredients {
     display: inline-block;
     margin-left: 170px;
     height: 730px;
-    
-    
+}
+
+.ingredientskal {
+    display: inline-block;
+    margin-left: 200px;
+    height: 500px;
 }
 
 .steps {
     display: inline-block;
     margin-left: 150px;
     height: 530px;
+}
+
+.stepskal {
+    display: inline-block;
+    margin-left: 190px;
+    height: 500px;
 }
 
 .ingheader {

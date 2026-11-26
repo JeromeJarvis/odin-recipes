@@ -46,7 +46,6 @@ body {
     border: 2px;
 }
 
-
 .shortname {
     color: #29482B;
     text-align: center;
@@ -87,8 +86,7 @@ hr {
     background-color: #29482B;
     width: 600px;
     height: 3px;
-    margin: 35px;
-    
+    margin: 35px; 
 }
 
 .flower {
@@ -116,6 +114,17 @@ hr {
     overflow: hidden;
 }
 
+.ingredientsmus,.stepsmus {
+   vertical-align: top;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    width: 550px;
+    height: 650px;
+    background-color: #E0E4C6;
+    border-radius: 20px;
+    overflow: hidden; 
+}
+
 .ingredients {
     display: inline-block;
     margin-left: 170px;
@@ -128,6 +137,11 @@ hr {
     height: 500px;
 }
 
+.ingredientsmus {
+    display: inline-block;
+    margin-left: 170px; 
+}
+
 .steps {
     display: inline-block;
     margin-left: 150px;
@@ -138,6 +152,11 @@ hr {
     display: inline-block;
     margin-left: 190px;
     height: 500px;
+}
+
+.stepsmus {
+    display: inline-block;
+    margin-left: 150px;
 }
 
 .ingheader {
@@ -155,7 +174,6 @@ hr {
     font-size: 20px;
     color: #29482B;
     padding: 0px 80px 10px 70px;
-    
 }
 
 .inlist li {
